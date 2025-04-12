@@ -47,7 +47,7 @@
             {
                 "name": "KeepMyFlashlight.dll",
                 "alt_name": "KeepMyFlashlight",
-                "description": "Tu linterna nunca se apagará.",
+                "description": "Tu linterna nunca se apagar\u00e1.",
                 "author": "nickklmao",
                 "image_url": "https://gcdn.thunderstore.io/live/repository/icons/nickklmao-KeepMyFlashlight-1.0.1.png.128x128_q95.jpg",
                 "hash": "963b5b1af78a59fd4b0327265373156c",
@@ -75,6 +75,16 @@
                 "size": 0.04
             },
             {
+                "name": "Mimics.dll",
+                "alt_name": "Mimic",
+                "description": "Mimic es un mod inspirado en Skinwalker (Lethal Company Mod) para REPO que permite que las criaturas del juego suenen como tú o tus amigos.",
+                "author": "eth9n",
+                "image_url": "https://gcdn.thunderstore.io/live/repository/icons/eth9n-Mimic-1.1.6.png.128x128_q95.jpg",
+                "hash": "41f47204c57ed09f975abc09d28ca11a",
+                "version": "1.1.6",
+                "size": 0.03
+            },
+            {
                 "name": "More Revive HP.dll",
                 "alt_name": "MoreReviveHP",
                 "description": "Revivir con 20 HP en Extractor en lugar de 1, configurable en el archivo cfg",
@@ -87,7 +97,7 @@
             {
                 "name": "MoreHead.dll",
                 "alt_name": "MoreHead+",
-                "description": "Cosméticos personalizables.",
+                "description": "Cosm\u00e9ticos personalizables.",
                 "author": "YMC_MHZ",
                 "image_url": "https://gcdn.thunderstore.io/live/repository/icons/YMC_MHZ-MoreHead-1.3.5.png.128x128_q95.jpg",
                 "hash": "a44fbf9a58671651d62e99358b177671",
@@ -97,7 +107,7 @@
             {
                 "name": "MoreShopItems.dll",
                 "alt_name": "MoreShopItems",
-                "description": "¡La tienda ahora tiene más artículos en los estantes!",
+                "description": "\u00a1La tienda ahora tiene m\u00e1s art\u00edculos en los estantes!",
                 "author": "GalaxyMods",
                 "image_url": "https://gcdn.thunderstore.io/live/repository/icons/GalaxyMods-MoreShopItems-1.3.3.png.128x128_q95.png",
                 "hash": "a2053e796d63c5d57c49b6d152d591e3",
@@ -107,7 +117,7 @@
             {
                 "name": "moreshopitems_assets.file",
                 "alt_name": "MoreShopItems_files",
-                "description": "¡La tienda ahora tiene más artículos en los estantes!",
+                "description": "\u00a1La tienda ahora tiene m\u00e1s art\u00edculos en los estantes!",
                 "author": "GalaxyMods",
                 "image_url": "https://gcdn.thunderstore.io/live/repository/icons/GalaxyMods-MoreShopItems-1.3.3.png.128x128_q95.png",
                 "hash": "23c5d6a32991a23d4724299b18783145",
@@ -117,7 +127,7 @@
             {
                 "name": "MovePlayers.dll",
                 "alt_name": "MorePlayers",
-                "description": "Le permite disminuir o aumentar el límite máximo de jugadores.",
+                "description": "Le permite disminuir o aumentar el l\u00edmite m\u00e1ximo de jugadores.",
                 "author": "zelofi",
                 "image_url": "https://gcdn.thunderstore.io/live/repository/icons/zelofi-MorePlayers-1.0.4.png.128x128_q95.jpg",
                 "hash": "544aba52804111b4da8e3dcc99596f96",
@@ -127,7 +137,7 @@
             {
                 "name": "PlayerCount.dll",
                 "alt_name": "PlayerCount",
-                "description": "¡Muestra el número de jugadores en tu lobby!",
+                "description": "\u00a1Muestra el n\u00famero de jugadores en tu lobby!",
                 "author": "nickklmao",
                 "image_url": "https://gcdn.thunderstore.io/live/repository/icons/nickklmao-PlayerCount-1.0.0.png.128x128_q95.jpg",
                 "hash": "9de9c51c710581e411341ebc004cd81d",
@@ -137,11 +147,11 @@
             {
                 "name": "REPOConfig.dll",
                 "alt_name": "REPOConfig",
-                "description": "¡Edita las configuraciones del mod en el juego!",
+                "description": "\u00a1Edita las configuraciones del mod en el juego!",
                 "author": "nickklmao",
                 "image_url": "https://gcdn.thunderstore.io/live/repository/icons/nickklmao-REPOConfig-1.1.8.png.128x128_q95.jpg",
                 "hash": "6eb3311ba6e657886b081ae8a8fc0b03",
-                "version": "1.1.8",
+                "version": "1.1.7",
                 "size": 0.02
             }
         ],
