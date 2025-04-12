@@ -37,7 +37,7 @@
             {
                 "name": "CustomColors.dll",
                 "alt_name": "CustomColors",
-                "description": "Agrega controles deslizantes de color RGB a la página Seleccionar color para que pueda seleccionar un color personalizado",
+                "description": "Agrega controles deslizantes de color RGB a la p\u00e1gina Seleccionar color para que pueda seleccionar un color personalizado",
                 "author": "x753_REPO",
                 "image_url": "https://gcdn.thunderstore.io/live/repository/icons/x753_REPO-CustomColors-1.1.1.png.128x128_q95.png",
                 "hash": "85f4d9933e09e706d0a46cd10901dfb5",
@@ -67,7 +67,7 @@
             {
                 "name": "MenuLib.dll",
                 "alt_name": "MenuLib",
-                "description": "¡Una biblioteca para crear UI!",
+                "description": "\u00a1Una biblioteca para crear UI!",
                 "author": "nickklmao",
                 "image_url": "https://gcdn.thunderstore.io/live/repository/icons/nickklmao-MenuLib-2.3.0.png.128x128_q95.jpg",
                 "hash": "7d30d5ea8395070e939fe6dbb3e7ad81",
@@ -93,6 +93,26 @@
                 "hash": "a44fbf9a58671651d62e99358b177671",
                 "version": "1.0",
                 "size": 0.04
+            },
+            {
+                "name": "MoreShopItems.dll",
+                "alt_name": "MoreShopItems",
+                "description": "¡La tienda ahora tiene más artículos en los estantes!",
+                "author": "GalaxyMods",
+                "image_url": "https://gcdn.thunderstore.io/live/repository/icons/GalaxyMods-MoreShopItems-1.3.3.png.128x128_q95.png",
+                "hash": "a2053e796d63c5d57c49b6d152d591e3",
+                "version": "1.0",
+                "size": 0.02
+            },
+            {
+                "name": "moreshopitems_assets.file",
+                "alt_name": "MoreShopItems_files",
+                "description": "¡La tienda ahora tiene más artículos en los estantes!",
+                "author": "GalaxyMods",
+                "image_url": "https://gcdn.thunderstore.io/live/repository/icons/GalaxyMods-MoreShopItems-1.3.3.png.128x128_q95.png",
+                "hash": "23c5d6a32991a23d4724299b18783145",
+                "version": "1.0",
+                "size": 0.86
             },
             {
                 "name": "MovePlayers.dll",
