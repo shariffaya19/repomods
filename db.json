@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "BepInEx": [
         {
             "name": "dlllist.txt",
@@ -77,7 +77,7 @@
             {
                 "name": "Mimics.dll",
                 "alt_name": "Mimic",
-                "description": "Mimic es un mod inspirado en Skinwalker (Lethal Company Mod) para REPO que permite que las criaturas del juego suenen como tú o tus amigos.",
+                "description": "Mimic es un mod inspirado en Skinwalker (Lethal Company Mod) para REPO que permite que las criaturas del juego suenen como t\u00fa o tus amigos.",
                 "author": "eth9n",
                 "image_url": "https://gcdn.thunderstore.io/live/repository/icons/eth9n-Mimic-1.1.6.png.128x128_q95.jpg",
                 "hash": "41f47204c57ed09f975abc09d28ca11a",
@@ -101,7 +101,7 @@
                 "author": "YMC_MHZ",
                 "image_url": "https://gcdn.thunderstore.io/live/repository/icons/YMC_MHZ-MoreHead-1.3.5.png.128x128_q95.jpg",
                 "hash": "a44fbf9a58671651d62e99358b177671",
-                "version": "1.0",
+                "version": "1.3,0",
                 "size": 0.04
             },
             {
