@@ -36,12 +36,12 @@
         "plugins": [
             {
                 "name": "CustomColors.dll",
-                "alt_name": "",
-                "description": "",
-                "author": "",
-                "image_url": "",
+                "alt_name": "CustomColors",
+                "description": "Agrega controles deslizantes de color RGB a la página Seleccionar color para que pueda seleccionar un color personalizado",
+                "author": "x753_REPO",
+                "image_url": "https://gcdn.thunderstore.io/live/repository/icons/x753_REPO-CustomColors-1.1.1.png.128x128_q95.png",
                 "hash": "85f4d9933e09e706d0a46cd10901dfb5",
-                "version": "1.0",
+                "version": "1.1.1",
                 "size": 0.01
             },
             {
@@ -66,12 +66,12 @@
             },
             {
                 "name": "MenuLib.dll",
-                "alt_name": "",
-                "description": "",
-                "author": "",
-                "image_url": "",
+                "alt_name": "MenuLib",
+                "description": "¡Una biblioteca para crear UI!",
+                "author": "nickklmao",
+                "image_url": "https://gcdn.thunderstore.io/live/repository/icons/nickklmao-MenuLib-2.3.0.png.128x128_q95.jpg",
                 "hash": "7d30d5ea8395070e939fe6dbb3e7ad81",
-                "version": "1.0",
+                "version": "2.3.0",
                 "size": 0.04
             },
             {
