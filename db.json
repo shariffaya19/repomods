@@ -1,5 +1,5 @@
 {
-    "version": "1.2",
+    "version": "1.1",
     "BepInEx": [
         {
             "name": "dlllist.txt",
@@ -57,7 +57,7 @@
             {
                 "name": "LateJoin.dll",
                 "alt_name": "LateJoin",
-                "description": "¿Tienes amigos que quieren unirse a una partida activa? ¡Se acabaron los días de cerrar y reabrir la sala! ¡Solo invita a tus amigos después de comprar!",
+                "description": "\u00bfTienes amigos que quieren unirse a una partida activa? \u00a1Se acabaron los d\u00edas de cerrar y reabrir la sala! \u00a1Solo invita a tus amigos despu\u00e9s de comprar!",
                 "author": "Rebateman",
                 "image_url": "https://gcdn.thunderstore.io/live/repository/icons/Rebateman-LateJoin-0.1.2.png.128x128_q95.png",
                 "hash": "be7181c7e2689c274de4a204d4df303a",
@@ -137,7 +137,7 @@
             {
                 "name": "MoreUpgrades.dll",
                 "alt_name": "MoreUpgrades",
-                "description": "Agrega más elementos de mejora al juego, tiene una biblioteca y es altamente configurable.",
+                "description": "Agrega m\u00e1s elementos de mejora al juego, tiene una biblioteca y es altamente configurable.",
                 "author": "BULLETBOT",
                 "image_url": "https://gcdn.thunderstore.io/live/repository/icons/BULLETBOT-MoreUpgrades-1.4.8.png.128x128_q95.jpg",
                 "hash": "34f2fea9eec4daccf14d670e7e940de7",
@@ -187,7 +187,7 @@
             {
                 "name": "TeamUpgrades.dll",
                 "alt_name": "TeamUpgrades",
-                "description": "¡Todas las actualizaciones ahora funcionan para todo el equipo!",
+                "description": "\u00a1Todas las actualizaciones ahora funcionan para todo el equipo!",
                 "author": "EvilCheetah",
                 "image_url": "https://gcdn.thunderstore.io/live/repository/icons/EvilCheetah-TeamUpgrades-1.1.4.png.128x128_q95.jpg",
                 "hash": "6d49bddb5b1eccca687268c5e0f30505",
@@ -195,9 +195,19 @@
                 "size": 0.01
             },
             {
+                "name": "UpgradeDivider.dll",
+                "alt_name": "Upgrade Divider",
+                "description": "Este mod ajusta el precio de los artículos de la tienda según la cantidad de jugadores.",
+                "author": "WildDucki",
+                "image_url": "https://gcdn.thunderstore.io/live/repository/icons/WildDucki-Upgrade_Divider-1.0.3.png.128x128_q95.jpg",
+                "hash": "e273a877b0673f593a6d9f51b7fbfdbe",
+                "version": "1.0.3",
+                "size": 0.01
+            },
+            {
                 "name": "WesleysEnemies.dll",
                 "alt_name": "Wesleys Enemies",
-                "description": "Añade algunos enemigos nuevos.",
+                "description": "A\u00f1ade algunos enemigos nuevos.",
                 "author": "Magic_Wesley",
                 "image_url": "https://gcdn.thunderstore.io/live/repository/icons/Magic_Wesley-Wesleys_Enemies-1.1.9.png.128x128_q95.jpg",
                 "hash": "3de52fd67868d9ac50a698b8b9073b5f",
