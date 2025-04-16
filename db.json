@@ -1,5 +1,5 @@
 {
-    "version": "1.1",
+    "version": "1.2",
     "BepInEx": [
         {
             "name": "dlllist.txt",
@@ -53,6 +53,16 @@
                 "hash": "963b5b1af78a59fd4b0327265373156c",
                 "version": "1.0.1",
                 "size": 0.01
+            },
+            {
+                "name": "LateJoin.dll",
+                "alt_name": "LateJoin",
+                "description": "¿Tienes amigos que quieren unirse a una partida activa? ¡Se acabaron los días de cerrar y reabrir la sala! ¡Solo invita a tus amigos después de comprar!",
+                "author": "Rebateman",
+                "image_url": "https://gcdn.thunderstore.io/live/repository/icons/Rebateman-LateJoin-0.1.2.png.128x128_q95.png",
+                "hash": "be7181c7e2689c274de4a204d4df303a",
+                "version": "0.1.2",
+                "size": 0.02
             },
             {
                 "name": "loaforcsSoundAPI.dll",
@@ -125,6 +135,16 @@
                 "size": 0.86
             },
             {
+                "name": "MoreUpgrades.dll",
+                "alt_name": "MoreUpgrades",
+                "description": "Agrega más elementos de mejora al juego, tiene una biblioteca y es altamente configurable.",
+                "author": "BULLETBOT",
+                "image_url": "https://gcdn.thunderstore.io/live/repository/icons/BULLETBOT-MoreUpgrades-1.4.8.png.128x128_q95.jpg",
+                "hash": "34f2fea9eec4daccf14d670e7e940de7",
+                "version": "1.4.8",
+                "size": 0.47
+            },
+            {
                 "name": "MovePlayers.dll",
                 "alt_name": "MorePlayers",
                 "description": "Le permite disminuir o aumentar el l\u00edmite m\u00e1ximo de jugadores.",
@@ -153,6 +173,46 @@
                 "hash": "c8833e87f510d51c52e18191185dc48a",
                 "version": "1.1.7",
                 "size": 0.02
+            },
+            {
+                "name": "REPOLib.dll",
+                "alt_name": "REPOLib",
+                "description": "Biblioteca para agregar contenido a REPO",
+                "author": "Zehs",
+                "image_url": "https://gcdn.thunderstore.io/live/repository/icons/Zehs-REPOLib-2.0.1.png.128x128_q95.png",
+                "hash": "bc621636a6a4d09df0173811af285119",
+                "version": "2.0.1",
+                "size": 0.1
+            },
+            {
+                "name": "TeamUpgrades.dll",
+                "alt_name": "TeamUpgrades",
+                "description": "¡Todas las actualizaciones ahora funcionan para todo el equipo!",
+                "author": "EvilCheetah",
+                "image_url": "https://gcdn.thunderstore.io/live/repository/icons/EvilCheetah-TeamUpgrades-1.1.4.png.128x128_q95.jpg",
+                "hash": "6d49bddb5b1eccca687268c5e0f30505",
+                "version": "1.1.4",
+                "size": 0.01
+            },
+            {
+                "name": "WesleysEnemies.dll",
+                "alt_name": "Wesleys Enemies",
+                "description": "Añade algunos enemigos nuevos.",
+                "author": "Magic_Wesley",
+                "image_url": "https://gcdn.thunderstore.io/live/repository/icons/Magic_Wesley-Wesleys_Enemies-1.1.9.png.128x128_q95.jpg",
+                "hash": "3de52fd67868d9ac50a698b8b9073b5f",
+                "version": "1.1.9",
+                "size": 0.06
+            },
+            {
+                "name": "wesleysenemies_enemyprefabs",
+                "alt_name": "",
+                "description": "",
+                "author": "",
+                "image_url": "",
+                "hash": "954efd3519061e4b245206161e7f9c1e",
+                "version": "1.0",
+                "size": 11.19
             }
         ],
         "plugins\\Decorations": [
